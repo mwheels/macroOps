@@ -1,2 +1,2 @@
-# macroOps
+# Macro Ops
 Useful C Macros
